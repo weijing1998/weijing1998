@@ -23,8 +23,5 @@ Here are some ideas to get you started:
     </a> 
     <a target="_blank" href="https://www.facebook.com/weijing1234/">
       <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-    </a>
-
-##Stats
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weijing1998)](https://github.com/weijing1998/github-readme-stats)                                                                                                                      
+    </a>                                                                                                                     
                                                                                                                        

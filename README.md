@@ -4,15 +4,17 @@
 **weijing1998/weijing1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently Studying on UUM Sintok Kedah
-- 🌱 I’m currently learning Dart, Java , HTML , CSS , JS ...
 - 🤔 I’m looking for help with my friend
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I'm Yong Wei Jing 22 years old
+- 🔭 I’m currently Studying on UUM Sintok Kedah
+- 🌱 I’m currently learning Dart, Java , HTML , CSS , JS ...
+
+## My Social Media
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+60187762335">
   <img align="left" alt="Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>

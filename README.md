@@ -13,7 +13,7 @@
 <a target="_blank" href=https://www.instagram.com/weiiijing/>
       <img align="left : 5em" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a> 
-    <a target="_blank" href="https://www.facebook.com/weijing1234/">
+    <a target="_blank" href="https://www.facebook.com/weijing1998/">
       <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
     </a>
                                                                                                                         
